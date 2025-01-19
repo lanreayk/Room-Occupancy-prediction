@@ -4,7 +4,7 @@ This project determines if a hotel room is vacant or occupied using room physica
 ## Problem Statement
 The problem statement was to come up with a solution for an Hotel management to solve the problem where hotel workers manipulate number of empty rooms to make cheap financial gains. I suggested that if some data suchas the ones given above are avaialble it might be possible to know if a room was actually empty or occupied at a particular time.
 ## Skills demonstrated
-Problem solving skiil, Feature engineering, Machine learning skill, Python, Sklearn, EDA, ETL
+Problem solving skill, Feature engineering, Machine learning skill, Python, Sklearn, EDA, ETL
 ## Data Source
 The data was given as an intern project during my internship at Prognoz.ai to determine my problem sloving skill as a machine learnig engineer. 
 ## Modelling
