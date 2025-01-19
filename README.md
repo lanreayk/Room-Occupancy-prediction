@@ -7,4 +7,6 @@ The problem statement was to come up with a solution for an Hotel management to 
 Problem solving skiil, Feature engineering, Machine learning skill, Python, Sklearn, EDA, ETL
 ## Data Source
 The data was given as an intern project during my internship at Prognoz.ai to determine my problem sloving skill as a machine learnig engineer. 
+## Modelling
+A logisitc regression was used been a binary classification problem. collinearity and recursive feature elimination were used as feature engineering technique and dimensionality reduction. For every manipulation the models were tested for performance comparison. The data was not balanced and its better to interprete the F1 score and Recall.
 
